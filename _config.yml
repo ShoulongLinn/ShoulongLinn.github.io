@@ -21,12 +21,12 @@ repository               : "ShoulongLinn/ShoulongLinn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.jpg" 
   name             : "Shoulong Lin"
   pronouns         : # example: "she/her"  
   bio              : "Particle Physics/FPGA development"
   location         : "CERN"
-  employer         : ""
+  employer         : 
   uri              : # URL
   email            : "shoulong.lin@cern.ch" 
 
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : ""
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "shoulonglinn" # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "" # Replace this with you Bluesky username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

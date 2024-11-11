@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Guest Ph.D in ALICE Forward Calorimeter readout electronics, University of Bergen, 2024.9-2024.12
+* Ph.D in ALICE Forward Calorimeter readout electronics, China Institute of Atomic Energy, 2024-now
+* M.S. in FPGA-based detector readout system, China Institute of Atomic Energy, 2021-2024
+* B.S. in Microelectronics, Tianjin University, 2017-2021
 
 Work experience
 ======
@@ -34,12 +35,8 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* FPGA Firmware design
+* PCB schematic design
 
 Publications
 ======
@@ -61,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
