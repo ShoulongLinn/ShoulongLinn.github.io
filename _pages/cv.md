@@ -16,23 +16,6 @@ Education
 * M.S. in FPGA-based detector readout system, China Institute of Atomic Energy, 2021-2024
 * B.S. in Microelectronics, Tianjin University, 2017-2021
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * FPGA Firmware design
